@@ -1,4 +1,4 @@
-# Dress
+# Dress 👗
 Dress up your lock screen
 
 ## Installation
