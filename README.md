@@ -1,5 +1,5 @@
 # Dress 👗
-Dress up your lock screen
+Customize your lock screen with one tweak
 
 ## Preview
 <img src="preview.png">
