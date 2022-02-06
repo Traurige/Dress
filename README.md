@@ -2,7 +2,7 @@
 Customize your lock screen with one tweak
 
 ## Preview
-<img src="preview.png">
+<img src="Preview.png">
 
 ## Installation
 1. Add this repository to your package manager: `TBD`
