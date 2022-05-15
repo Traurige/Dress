@@ -17,9 +17,7 @@ iPhone, iPad and iPod running iOS/iPadOS 13 or later
   - You may want to edit the root `Makefile` to use your Theos SDK and toolchain
 
 ## License
-If you take code from this repository please link it, or my [Twitter](https://twitter.com/schneelittchen) to your project<br>
-You may not redistribute this source code or packages from it<br>
-You may not use this project to make profit like money
+[MIT](https://github.com/Traurige/Dress/blob/main/LICENSE)
 
 ## Credits
   - Coloring The Time And Date
