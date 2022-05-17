@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+	
+		<dict>
+			<key>cellClass</key>
+			<string>DuoTwitterCell</string>
+			<key>firstLabel</key>
+			<string>🌸 Litten</string>
+			<key>firstAccount</key>
+			<string>schneelittchen</string>
+			<key>secondLabel</key>
+			<string>taki</string>
+			<key>secondAccount</key>
+			<string>74k1_</string>
+			<key>height</key>
+			<real>57</real>
+		</dict>
+
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>What do you want to dress up?</string>
+		</dict>
+		<dict>
+ 			<key>cell</key>
+ 			<string>PSLinkCell</string>
+ 			<key>label</key>
+ 			<string>Time and Date</string>
+ 			<key>detail</key>
+ 			<string>DRSTimeAndDateSubPreferencesListController</string>
+ 			<key>DRSSub</key>
+ 			<string>sub/timeAndDate</string>
+ 		</dict>
+		<dict>
+ 			<key>cell</key>
+ 			<string>PSLinkCell</string>
+ 			<key>label</key>
+ 			<string>FaceID Lock</string>
+ 			<key>detail</key>
+ 			<string>DRSFaceIDLockSubPreferencesListController</string>
+ 			<key>DRSSub</key>
+ 			<string>sub/faceIDLock</string>
+ 		</dict>
+		<dict>
+ 			<key>cell</key>
+ 			<string>PSLinkCell</string>
+ 			<key>label</key>
+ 			<string>Status Bar</string>
+ 			<key>detail</key>
+ 			<string>DRSStatusBarSubPreferencesListController</string>
+ 			<key>DRSSub</key>
+ 			<string>sub/statusBar</string>
+ 		</dict>
+		<dict>
+ 			<key>cell</key>
+ 			<string>PSLinkCell</string>
+ 			<key>label</key>
+ 			<string>Homebar</string>
+ 			<key>detail</key>
+ 			<string>DRSHomebarSubPreferencesListController</string>
+ 			<key>DRSSub</key>
+ 			<string>sub/homebar</string>
+ 		</dict>
+		<dict>
+ 			<key>cell</key>
+ 			<string>PSLinkCell</string>
+ 			<key>label</key>
+ 			<string>Page Dots</string>
+ 			<key>detail</key>
+ 			<string>DRSPageDotsSubPreferencesListController</string>
+ 			<key>DRSSub</key>
+ 			<string>sub/pageDots</string>
+ 		</dict>
+		<dict>
+ 			<key>cell</key>
+ 			<string>PSLinkCell</string>
+ 			<key>label</key>
+ 			<string>Media Player</string>
+ 			<key>detail</key>
+ 			<string>DRSMediaPlayerSubPreferencesListController</string>
+ 			<key>DRSSub</key>
+ 			<string>sub/mediaPlayer</string>
+ 		</dict>
+		<dict>
+ 			<key>cell</key>
+ 			<string>PSLinkCell</string>
+ 			<key>label</key>
+ 			<string>Notifications</string>
+ 			<key>detail</key>
+ 			<string>DRSNotificationsSubPreferencesListController</string>
+ 			<key>DRSSub</key>
+ 			<string>sub/notifications</string>
+ 		</dict>
+		<dict>
+ 			<key>cell</key>
+ 			<string>PSLinkCell</string>
+ 			<key>label</key>
+ 			<string>Unlock Text, CC Grabber</string>
+ 			<key>detail</key>
+ 			<string>DRSUnlockTextSubPreferencesListController</string>
+ 			<key>DRSSub</key>
+ 			<string>sub/unlockText</string>
+ 		</dict>
+		<dict>
+ 			<key>cell</key>
+ 			<string>PSLinkCell</string>
+ 			<key>label</key>
+ 			<string>Quick Actions</string>
+ 			<key>detail</key>
+ 			<string>DRSQuickActionsSubPreferencesListController</string>
+ 			<key>DRSSub</key>
+ 			<string>sub/quickActions</string>
+ 		</dict>
+		<dict>
+ 			<key>cell</key>
+ 			<string>PSLinkCell</string>
+ 			<key>label</key>
+ 			<string>Others</string>
+ 			<key>detail</key>
+ 			<string>DRSOthersSubPreferencesListController</string>
+ 			<key>DRSSub</key>
+ 			<string>sub/others</string>
+ 		</dict>
+
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Other options</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>Respring</string>
+			<key>action</key>
+			<string>respring</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>Reset preferences</string>
+			<key>action</key>
+			<string>resetPrompt</string>
+		</dict>
+
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Contributions</string>
+		</dict>
+		<dict>
+ 			<key>cell</key>
+ 			<string>PSLinkCell</string>
+ 			<key>label</key>
+ 			<string>Contributors</string>
+ 			<key>detail</key>
+ 			<string>DRSContributorsSubPreferencesListController</string>
+ 			<key>DRSSub</key>
+ 			<string>sub/contributors</string>
+ 		</dict>
+
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>You might like:</string>
+		</dict>
+		<dict>
+			<key>cellClass</key>
+			<string>HBLinkTableCell</string>
+			<key>label</key>
+			<string>Liddell</string>
+			<key>subtitle</key>
+			<string>Little notification banners</string>
+			<key>icon</key>
+			<string>featured/Liddell.png</string>
+			<key>url</key>
+			<string>https://repo.litten.love/depictions/Liddell/</string>
+		</dict>
+		<dict>
+			<key>cellClass</key>
+			<string>HBLinkTableCell</string>
+			<key>label</key>
+			<string>Violet</string>
+			<key>subtitle</key>
+			<string>Make your wallpaper your song's artwork</string>
+			<key>icon</key>
+			<string>featured/Violet.png</string>
+			<key>url</key>
+			<string>https://repo.litten.love/depictions/Violet/</string>
+		</dict>
+
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Dress by Litten, icon and banner by taki</string>
+			<key>isStaticText</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>cellClass</key>
+			<string>HBLinkTableCell</string>
+			<key>label</key>
+			<string>Discord</string>
+			<key>subtitle</key>
+			<string>Chat with us 👾</string>
+			<key>url</key>
+			<string>https://discord.gg/tKUPZrS7ve</string>
+		</dict>
+		<dict>
+			<key>cellClass</key>
+			<string>HBLinkTableCell</string>
+			<key>label</key>
+			<string>Source code</string>
+			<key>subtitle</key>
+			<string>GitHub 👗</string>
+			<key>url</key>
+			<string>https://github.com/schneelittchen/Dress</string>
+		</dict>
+		<dict>
+			<key>cellClass</key>
+			<string>HBLinkTableCell</string>
+			<key>label</key>
+			<string>Donate to Litten</string>
+			<key>subtitle</key>
+			<string>Appreciated 💝</string>
+			<key>url</key>
+			<string>https://paypal.me/Litteeen</string>
+		</dict>
+
+		<dict>
+			<key>cell</key>
+			<key>PSGroupCell</key>
+			<key>footerText</key>
+			<string>princess of daydreaming</string>
+			<key>isStaticText</key>
+			<true/>
+			<key>footerAlignment</key>
+			<real>1</real>
+		</dict>
+
+	</array>
+	<key>title</key>
+	<string>Dress</string>
+</dict>
+</plist>
